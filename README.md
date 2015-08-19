@@ -85,6 +85,6 @@ console.log(config.auth.username); // mike
 
 ## License
 
-PUBLIC DOMAIN
+CC0 (PUBLIC DOMAIN)
 
 > <small>really, it's too simple to qualify for copyright, no?</small>
