@@ -2,6 +2,8 @@
 
 >*Simple access to settings for your node application*
 
+[![Travis CI](https://travis-ci.org/digitaldesignlabs/app-settings.svg)](https://travis-ci.org/digitaldesignlabs/app-settings)
+
 This is a simple module which gives access to a configuration file for a node application, either in YAML, JSON or INI format.
 
 ## Install
