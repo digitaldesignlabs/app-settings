@@ -2,7 +2,7 @@
   "name": "app-settings",
   "description": "Really simple INI, JSON or YAML settings files for your application",
   "license": "CC0-1.0",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "lib/settings.js",
   "repository": "https://github.com/digitaldesignlabs/app-settings.git",
   "files": [
